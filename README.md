@@ -9,3 +9,9 @@ nattapat.tho@student.mahidol.ac.th
 
 ## My hometown
 Saraburi, Thailand
+
+# my favorite activity
+* listen to music
+* play basketball
+* play badminton
+* watch youtube
